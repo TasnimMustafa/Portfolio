@@ -1,0 +1,100 @@
+
+.project-title p {
+    color: rgba(255,255,255,0.6);
+}
+
+.project-filters {
+    margin: auto;
+}
+
+.project-filters a {
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.2);
+    padding:6px;
+    width: 200px;
+    background: rgba(255,255,255,0.2);
+    text-decoration: none;
+    color: var(--background-color);
+    font-size: 18px;
+    transition: 0.3s ease;
+}
+
+.project-filters a:first-child , .project-filters a:first-child:before{
+    border-right-width: 0;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.project-filters a:last-child , .project-filters a:last-child:before{
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-left-width: 0;
+}
+
+/*.project-filters a:focus {*/
+/*    background:linear-gradient(45deg,var(--second-color),var(--third-color));*/
+/*}*/
+
+.project-filters a {
+    position: relative;
+}
+
+.project-filters a:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background:linear-gradient(45deg,var(--second-color),var(--third-color));
+    z-index: -1;
+    transition: 0.3s;
+}
+
+
+.project-filters a.active:before {
+   width: 100%;
+}
+
+.project-container img{
+    position: relative;
+}
+
+.project-container img {
+    filter: grayscale(1);
+}
+
+.overlay {
+    position: absolute;
+    border-radius: 6px;
+    top: -5%;
+    left: 0;
+    height: 110%;
+    width: 100%;
+    transition: .5s ease;
+    background-color: rgba(0,0,0,0.5);
+    transform: scale(0);
+}
+
+.project-container:hover .overlay {
+    transform: scale(1);
+}
+
+.project-container:hover img {
+    filter: grayscale(0);
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.icon:hover {
+    color: var(--third-color);
+}

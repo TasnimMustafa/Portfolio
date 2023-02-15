@@ -1,0 +1,43 @@
+.skills {
+    position: relative;
+    height: 80vh;
+    width: 100%;
+}
+/*.skills-banner {*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    background: var(--background-color);*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*}*/
+
+.skills-container {
+    background-color: var(--background-color);
+    position: absolute;
+    top: -85px;
+    box-shadow: 6px 6px 20px rgba(0,0,0,0.08);
+    color: var(--main-color);
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.skills-container p {
+    color: rgba(255,255,255,0.6);
+}
+
+.swiper-pagination-bullet-active {
+    background-color: var(--main-color) !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: var(--main-color) !important;
+    width: calc(var(--swiper-navigation-size)/ 220 * 40) !important;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 14px !important;
+    font-weight: 700;
+}
+
