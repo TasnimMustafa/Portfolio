@@ -24,7 +24,7 @@ function App() {
 
        <Routes>
            <Route>
-               <Route path='.' element={<AllProjects/>}/>
+               <Route path='/Portfolio' element={<AllProjects/>}/>
                <Route path='front' element={<FrontProjects/>}/>
                <Route path='back' element={<BackProjects/>}/>
            </Route>
