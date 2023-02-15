@@ -18,9 +18,9 @@ function Projects() {
                     </div>
 
                     <div className='project-filters d-flex justify-content-center'>
-                        <Link to='Portfolio/' onClick={() => {setActive('active');setActive1('');setActive2('')}} className={active}>All</Link>
-                        <Link to='Portfolio/front' onClick={() => {setActive('');setActive1('active');setActive2('')}} className={active1}>Front-End</Link>
-                        <Link to='Portfolio/back' onClick={() => {setActive('');setActive1('');setActive2('active')}} className={active2}>Back-End</Link>
+                        <Link to='/Portfolio/' onClick={() => {setActive('active');setActive1('');setActive2('')}} className={active}>All</Link>
+                        <Link to='/Portfolio/front' onClick={() => {setActive('');setActive1('active');setActive2('')}} className={active1}>Front-End</Link>
+                        <Link to='/Portfolio/back' onClick={() => {setActive('');setActive1('');setActive2('active')}} className={active2}>Back-End</Link>
                     </div>
                     <Outlet/>
                 </div>

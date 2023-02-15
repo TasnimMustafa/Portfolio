@@ -28,7 +28,7 @@ function Nav() {
         <React.Fragment>
             <div className='container-fluid'>
         <nav className={`navbar-expand-lg navbar-light fixed-top ${colorChange ? 'navbar colorChange' : 'navbar'}`} style={{zIndex:'999'}} >
-        <Link className="navbar-brand text-white" to='/' style={{fontFamily:"'Lobster Two', cursive",fontSize:"33px"}}>Tasneem</Link>
+        <Link className="navbar-brand text-white" to='/Portfolio/' style={{fontFamily:"'Lobster Two', cursive",fontSize:"33px"}}>Tasneem</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
         </button>
