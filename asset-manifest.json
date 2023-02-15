@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css",
-    "main.js": "/TasnimMustafa/Portfolio/static/js/main.7c8df11d.js",
-    "static/js/787.128fc6e9.chunk.js": "/TasnimMustafa/Portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/banner2.gif": "/TasnimMustafa/Portfolio/static/media/banner2.0daa370817e4d3c94cfa.gif",
-    "static/media/T3.png": "/TasnimMustafa/Portfolio/static/media/T3.b81aed85b5f5f103be2a.png",
-    "static/media/penetron.png": "/TasnimMustafa/Portfolio/static/media/penetron.703474e78f597b6c29c5.png",
-    "static/media/T1.png": "/TasnimMustafa/Portfolio/static/media/T1.c1047b89cf69b5e71411.png",
-    "static/media/analysis.png": "/TasnimMustafa/Portfolio/static/media/analysis.4fdf53b6d4368791e4d3.png",
-    "static/media/T2.png": "/TasnimMustafa/Portfolio/static/media/T2.1b2fc2d748f3c67b3e73.png",
-    "static/media/fvision.png": "/TasnimMustafa/Portfolio/static/media/fvision.77672beab2a554369236.png",
-    "static/media/lawyer.png": "/TasnimMustafa/Portfolio/static/media/lawyer.7ec53a5e6970081df34f.png",
-    "static/media/sm.png": "/TasnimMustafa/Portfolio/static/media/sm.27c05f950c517a209e48.png",
-    "static/media/hjm.png": "/TasnimMustafa/Portfolio/static/media/hjm.245ef14e165ab8bca38e.png",
-    "static/media/cast.png": "/TasnimMustafa/Portfolio/static/media/cast.ce0d532038dec6514ac0.png",
-    "static/media/portfolio.png": "/TasnimMustafa/Portfolio/static/media/portfolio.3e6bc5bf6280bbd6090d.png",
-    "index.html": "/TasnimMustafa/Portfolio/index.html",
-    "main.3da24a52.css.map": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css.map",
-    "main.7c8df11d.js.map": "/TasnimMustafa/Portfolio/static/js/main.7c8df11d.js.map",
-    "787.128fc6e9.chunk.js.map": "/TasnimMustafa/Portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/css/main.3da24a52.css",
+    "main.js": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/js/main.04e1fc7b.js",
+    "static/js/787.128fc6e9.chunk.js": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/js/787.128fc6e9.chunk.js",
+    "static/media/banner2.gif": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/banner2.0daa370817e4d3c94cfa.gif",
+    "static/media/T3.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/T3.b81aed85b5f5f103be2a.png",
+    "static/media/penetron.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/penetron.703474e78f597b6c29c5.png",
+    "static/media/T1.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/T1.c1047b89cf69b5e71411.png",
+    "static/media/analysis.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/analysis.4fdf53b6d4368791e4d3.png",
+    "static/media/T2.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/T2.1b2fc2d748f3c67b3e73.png",
+    "static/media/fvision.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/fvision.77672beab2a554369236.png",
+    "static/media/lawyer.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/lawyer.7ec53a5e6970081df34f.png",
+    "static/media/sm.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/sm.27c05f950c517a209e48.png",
+    "static/media/hjm.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/hjm.245ef14e165ab8bca38e.png",
+    "static/media/cast.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/cast.ce0d532038dec6514ac0.png",
+    "static/media/portfolio.png": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/media/portfolio.3e6bc5bf6280bbd6090d.png",
+    "index.html": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/index.html",
+    "main.3da24a52.css.map": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/css/main.3da24a52.css.map",
+    "main.04e1fc7b.js.map": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/js/main.04e1fc7b.js.map",
+    "787.128fc6e9.chunk.js.map": "/TasnimMustafa/Portfolio/static/css/main.3da24a52.css/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3da24a52.css",
-    "static/js/main.7c8df11d.js"
+    "static/js/main.04e1fc7b.js"
   ]
 }
