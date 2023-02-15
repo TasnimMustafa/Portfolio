@@ -24,9 +24,9 @@ function App() {
 
        <Routes>
            <Route>
-               <Route path='Portfolio' element={<AllProjects/>}/>
-               <Route path='front' element={<FrontProjects/>}/>
-               <Route path='back' element={<BackProjects/>}/>
+               <Route path='Portfolio/' element={<AllProjects/>}/>
+               <Route path='Portfolio/front' element={<FrontProjects/>}/>
+               <Route path='Portfolio/back' element={<BackProjects/>}/>
            </Route>
        </Routes>
         <Contact/>
