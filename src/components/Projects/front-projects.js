@@ -18,7 +18,7 @@ function FrontProjects() {
         {
             image:portfolio,
             title:"Portfolio",
-            link:"https://tasnimmustafa.github.io/MyPortfolio/",
+            link:"https://github.com/TasnimMustafa/MyPortfolio",
             category: ['all','frontend'],
         },
         {
