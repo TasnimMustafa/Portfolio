@@ -19,7 +19,7 @@ function AllProjects() {
         {
             image:portfolio,
             title:"Portfolio",
-            link:"https://github.com/TasnimMustafa/MyPortfolio",
+            link:"https://TasnimMustafa.github.io/MyPortfolio",
             category: ['all','frontend'],
         },
         {
