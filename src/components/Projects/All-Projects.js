@@ -16,6 +16,12 @@ import './Projects.css'
 function AllProjects() {
 
     const projects = [
+         {
+            image:portfolio,
+            title:"zahran",
+            link:"https://tasnimmustafa.github.io/zahran/ZAHRAN/pages/",
+            category: ['all','frontend'],
+        },
         {
             image:portfolio,
             title:"Portfolio",
