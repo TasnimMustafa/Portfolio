@@ -17,6 +17,12 @@ function FrontProjects() {
     const projects = [
         {
             image:portfolio,
+            title:"zahran",
+            link:"https://tasnimmustafa.github.io/zahran/ZAHRAN/pages/",
+            category: ['all','frontend'],
+        },
+        {
+            image:portfolio,
             title:"Portfolio",
             link:"https://TasnimMustafa.github.io/MyPortfolio",
             category: ['all','frontend'],
