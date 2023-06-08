@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Signika:wght@300;400;600&display=swap');
+
+:root {
+  --background-color:#171430;
+  --main-color:#fff;
+  --second-color:#e99dcb;
+  --third-color:#8099e9;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Signika', sans-serif !important;
+  background-color: var(--background-color) !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root{
+
+}
